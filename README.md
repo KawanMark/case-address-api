@@ -70,7 +70,7 @@ graph TD
 -   **RNF01:** A solução utiliza o padrão arquitetural MVC.
 -   **RNF02:** Testes **unitários** e de **integração** para garantir a qualidade.
 -   **RNF03:** O código-fonte está versionado em um repositório público.
--   **RNF04:** Este `README.md` fornece instruções claras de execução e documentação da solução.
+-   **RNF04:** O `README.md` deve fornece instruções claras de execução e documentação da solução.
 -   **RNF05:** A aplicação implementa um mecanismo de cache com Redis para otimizar performance e resiliência.
 
 ## Diferenciais Técnicos
