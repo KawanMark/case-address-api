@@ -1,7 +1,7 @@
 # Case Técnico Itaú - API de Consulta de Endereços
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.x-brightgreen)
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.x-brightgreen)
 ![Redis](https://img.shields.io/badge/Redis-Cache-red)
 ![Tests](https://img.shields.io/badge/Testes-Unit%20%26%20Integration-success)
 
