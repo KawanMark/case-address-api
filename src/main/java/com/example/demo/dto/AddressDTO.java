@@ -1,18 +1,17 @@
 package com.example.demo.dto;
+import java.io.Serializable;
 
 /**
  * Data Transfer Object representing an address.
  * Contains information such as postal code, street, complement, neighborhood, city, and state.
  */
 
-public class AddressDTO {
+public class AddressDTO implements  Serializable {
     private String cep;
     private String logradouro;
     private String complemento;
     private String bairro;
     private String localidade;
-    private String uf;
-
     public String getCep() {
         return cep;
     }
@@ -53,11 +52,4 @@ public class AddressDTO {
         this.localidade = localidade;
     }
 
-    public String getUf() {
-        return uf;
-    }
-
-    public void setUf(String uf) {
-        this.uf = uf;
-    }
 }
