@@ -177,8 +177,19 @@ Busca um endereço pelo CEP. O CEP pode ser informado com ou sem formatação (h
     }
     ```
 
+
+    
+
 ## Como Rodar os Testes
 Para executar a suíte completa de testes unitários e de integração, navegue até a raiz do projeto e execute:
 ```bash
 ./mvnw test
 ```
+
+
+
+## 🎥 Demonstração em Vídeo
+
+[![Assistir Demonstração - Case Técnico Itaú](https://img.youtube.com/vi/D7-HgUaL2qI/0.jpg)](https://www.youtube.com/watch?v=D7-HgUaL2qI)
+
+*Clique na imagem para assistir à demonstração completa*
